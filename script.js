@@ -395,7 +395,7 @@ class LinkBox {
             this.categories.push({
                 id: 'uncategorized',
                 name: 'Uncategorized',
-                color: '#6b7280',
+                color: '#2f6ce6ff',
                 icon: 'fas fa-folder'
             });
         }
